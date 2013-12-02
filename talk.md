@@ -14,7 +14,7 @@ mattwalker@astuntechnology.com
 # Who's involved?
 
 * 1000's of Individuals & Organisations.
-* Geospatial part of wider open source community.
+* Geospatial is part of the wider open source community.
 
 ---
 
@@ -63,9 +63,9 @@ mattwalker@astuntechnology.com
 
 ## GML Loading tool
 
-Built by Astun for internal use and release to community.
+Built by Astun for internal use, and released to the community.
 
-Used by Astun, Ordnance Survey and may others
+Used by Astun, Ordnance Survey and many others
 
 Sparked contributions of: QGIS OSMM Plugin, Styles etc.
 
@@ -85,9 +85,9 @@ Sparked contributions of: Alternative search services, QGIS 2.0 compatibility.
 
 ## Custom web application
 
-Web application build on behalf of Natural Resources Wales by Astun, released as open software.
+Web application built on behalf of Natural Resources Wales by Astun, released as open source.
 
-Custom development for a specific application but NRW and others free to reuse and extend in future.
+Custom development for a specific application, but NRW and others free to reuse and extend in future.
 
 ---
 
@@ -150,7 +150,7 @@ MapProxy: Small friendly user base
 
 # Create an Issue
 
-* If you find a bug that's not know report it.
+* If you find a bug that's not known, report it.
 * Research your issue thoroughly.
 * Explain in detail.
 * Make it easy to reproduce.
@@ -163,7 +163,7 @@ Loader: loading tables with no geom using ogr2ogr
 
 # Write a Post
 
-Share your experience with other.
+Share your experience with others.
 There is always someone with less experience than you who will benefit.
 
 OSGeo related blogs aggregated here: [http://www.osgeo.org/aggregator](http://www.osgeo.org/aggregator)
