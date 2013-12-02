@@ -1,0 +1,21 @@
+body {
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    color: #444;
+    background-color: lightYellow;
+}
+
+div.presentation, div.presentation, div.slide {
+    background-color: lightYellow;
+}
+
+div.slide h1 {
+    font-weight: 800;
+}
+
+div.slide h1, div.slide h2, div.slide h3, div.slide h4, div.slide h5, div.slide h6 {
+    color: #8B0000;
+}
+
+img.logo {
+    float: right;
+}
